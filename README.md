@@ -9,3 +9,11 @@ Os planos, códigos, documentos e outros materiais contidos neste site destinam-
 
 Simplificar os projetos existentes de um respirador de emergência de baixo custo com máscara, com base no grupo de pesquisa do MIT, permitindo que o dispositivo seja construído principalmente de Peças impressas em 3d e material de fácil acesso.
 
+# Material
+Bomba de ar 12 volts para infláveis -
+https://produto.mercadolivre.com.br/MLB-1284494956-inflador-eletrico-12v-nautika-bomba-de-ar-colcho-inflaveis-_JM?quantity=1#position=25&type=item&tracking_id=0fe14c00-2edc-497d-bd94-eed566a2bdbc
+
+Módulo Esc 30a Brushless Hobbypower Bec 2a 5v - Muito usado para aeromodelos, drones etc... Serve para regular a velocidade do motor da bomba
+https://produto.mercadolivre.com.br/MLB-1353657220-modulo-esc-30a-brushless-hobbypower-bec-2a-5v-aeromodelo-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1t4bwsaYGtNNNzdm2uKlCcouhmyYlBGnfT9d5YPvZ_BcHjDUWrkRoIaAikcEALw_wcB&quantity=1
+
+# Riscos
