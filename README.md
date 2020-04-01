@@ -16,4 +16,7 @@ https://produto.mercadolivre.com.br/MLB-1284494956-inflador-eletrico-12v-nautika
 Módulo Esc 30a Brushless Hobbypower Bec 2a 5v - Muito usado para aeromodelos, drones etc... Serve para regular a velocidade do motor da bomba
 https://produto.mercadolivre.com.br/MLB-1353657220-modulo-esc-30a-brushless-hobbypower-bec-2a-5v-aeromodelo-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1t4bwsaYGtNNNzdm2uKlCcouhmyYlBGnfT9d5YPvZ_BcHjDUWrkRoIaAikcEALw_wcB&quantity=1
 
+Barometro Bmp280 Sensor De Pressão E Temperatura - 
+https://produto.mercadolivre.com.br/MLB-796126810-barometro-bmp280-sensor-de-presso-e-temperatura-arduino-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1tMBIC2XGLO5EOAWk1Wd2PRxnHzRSaQrwqJHX80F7hIM94WxPvGidYaAnY_EALw_wcB&quantity=1
+
 # Riscos
