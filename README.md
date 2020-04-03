@@ -19,4 +19,16 @@ https://produto.mercadolivre.com.br/MLB-1353657220-modulo-esc-30a-brushless-hobb
 Barometro Bmp280 Sensor De Pressão E Temperatura - 
 https://produto.mercadolivre.com.br/MLB-796126810-barometro-bmp280-sensor-de-presso-e-temperatura-arduino-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1tMBIC2XGLO5EOAWk1Wd2PRxnHzRSaQrwqJHX80F7hIM94WxPvGidYaAnY_EALw_wcB&quantity=1
 
+# Teste e Monitoramento
+
+Um ponto mais complexo, mas também essencial em passos mais avançados de um ventilador pulmonar, está o monitoramento, para isso projetos como o abaixo são muito interessantes.
+
+"Tornou-se claro que a maior peça que está faltando e o local em que a invenção pode ajudar mais não está no design de um novo ventilador, mas na construção de um equipamento de teste / monitoramento para ajudar outras equipes.
+
+Como o monitoramento é fundamental para manter os pacientes vivos e é tão semelhante à necessidade de testar, estamos tentando fazer um testador / monitor combinado." 
+- Time da Ventimon
+
+Link para o projeto aberto
+https://github.com/PubInv/ventmon-ventilator-inline-test-monitor
+
 # Riscos
