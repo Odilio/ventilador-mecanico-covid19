@@ -20,21 +20,21 @@ void setup() {
   Serial.begin(serial_baud
   
   if(enable_motor){
-    myservo.attach(servo_pin,1000,2000); // some motors need min/max setting
+    myservo.attach(servo_pin,1000,2000); // alguns motores podem precisar da definição de minimo e máximo
     
-    Serial.print("Initializing ESC...");
+    Serial.print("Inicializando");
     
     myservo.write(max_speed);
-    delay(3000); // wait for esc to boot, and sample maximum
+    delay(3000); // Espera o ESC iniciar
     myservo.write(min_speed);
     digitalWrite(led_pin, LOW);
-    delay(2000);  // wait for esc to sample minimum
-
+    delay(2000);  
+    // processo de teste inicial
     digitalWrite(led_pin, HIGH);
     myservo.write(PEEP_speed);
     Serial.println("Done");  
   } else {
-    Serial.println("Motor disabled.  Bypassing initialization");      
+    Serial.println("Motor desabilitado");      
   }
   
   }
