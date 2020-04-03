@@ -32,3 +32,8 @@ Link para o projeto aberto
 https://github.com/PubInv/ventmon-ventilator-inline-test-monitor
 
 # Riscos
+
+# Outras Soluções 
+
+Ventilador mecânico do MIT, utilizando um ambu para ventilar
+https://e-vent.mit.edu/
