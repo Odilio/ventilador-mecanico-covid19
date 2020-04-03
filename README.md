@@ -37,3 +37,4 @@ https://github.com/PubInv/ventmon-ventilator-inline-test-monitor
 
 Ventilador mecânico do MIT, utilizando um ambu para ventilar
 https://e-vent.mit.edu/
+![Image description] https://e-vent.mit.edu/wp-content/uploads/2020/03/LMB_3322-1-1024x684.jpg
