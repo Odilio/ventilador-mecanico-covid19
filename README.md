@@ -31,6 +31,10 @@ Como o monitoramento é fundamental para manter os pacientes vivos e é tão sem
 Link para o projeto aberto
 https://github.com/PubInv/ventmon-ventilator-inline-test-monitor
 
+# Construção
+
+Para o desenvolvimento do ventilador, utilizaremos o microcontrolador para prototipagem arduino, o codigo escrito nele é c.
+
 # Riscos
 
 # Outras Soluções 
