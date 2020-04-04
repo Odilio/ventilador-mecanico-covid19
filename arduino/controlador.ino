@@ -39,6 +39,11 @@ void setup() {
   
   }
   
-  void loop() {
-  
-  }
+  void loop()                                               // Loop infinito
+{
+    Speed = analogRead(pino_pot);                         // Le o valor do potenciometro
+    Speed = map(Speed, 0, 1023, 0, 179);                  // Converte o valor para uma faixa entre 0 e 179
+    Serial.print("Valor Speed: ");                        // Mostra o valor da velocidade na porta serial
+    Serial.println(Speed);                                // Escreve a velocidade na serial
+    Esc30A.write(Speed);                                  // Ajusta a velocidade conforme potenciometro
+}
