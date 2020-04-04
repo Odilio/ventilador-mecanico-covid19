@@ -34,6 +34,7 @@ https://github.com/PubInv/ventmon-ventilator-inline-test-monitor
 # Construção
 
 Para o desenvolvimento do ventilador, utilizaremos o microcontrolador para prototipagem arduino, o codigo escrito nele é c.
+Para controlar o motor da bomba de ar, precisaremos de um ESC(electronic speed control) muito utilizado em projeto de aeromodelismo e drone, para controlar motores brushless(motores sem escova) 
 
 # Riscos
 
